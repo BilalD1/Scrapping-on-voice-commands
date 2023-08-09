@@ -1,0 +1,2446 @@
+1688539519879	geckodriver	INFO	Listening on 127.0.0.1:39927
+1688539520309	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI0Lqsb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1688539520634	Marionette	INFO	Marionette enabled
+1688539520640	Marionette	INFO	Listening on port 37645
+Read port: 37645
+WebDriver BiDi listening on ws://127.0.0.1:36225
+1688539520781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36225/devtools/browser/029d1061-d9b4-4e49-a6a7-77aaecd5e1f4
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1688539694229	geckodriver	INFO	Listening on 127.0.0.1:51269
+1688539694658	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3rNxZ9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1688539694970	Marionette	INFO	Marionette enabled
+1688539694974	Marionette	INFO	Listening on port 44101
+Read port: 44101
+WebDriver BiDi listening on ws://127.0.0.1:37741
+1688539695138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37741/devtools/browser/fe9759fa-ca3d-424d-8e9c-be634631e29b
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1688539808265	geckodriver	INFO	Listening on 127.0.0.1:51681
+1688539808690	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAVD3aC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1688539809009	Marionette	INFO	Marionette enabled
+1688539809015	Marionette	INFO	Listening on port 39211
+Read port: 39211
+WebDriver BiDi listening on ws://127.0.0.1:34257
+1688539809168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34257/devtools/browser/ba0b5710-c1fa-4c7a-9c70-fa6e53e07075
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1688539876326	geckodriver	INFO	Listening on 127.0.0.1:45489
+1688539876752	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "51027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6URhfr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1688539877087	Marionette	INFO	Marionette enabled
+1688539877092	Marionette	INFO	Listening on port 34575
+Read port: 34575
+WebDriver BiDi listening on ws://127.0.0.1:51027
+1688539877246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51027/devtools/browser/a7a34312-5e9e-4417-9766-5fade798ac4c
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1688540602447	geckodriver	INFO	Listening on 127.0.0.1:50925
+1688540602877	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaG3W6W"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1688540603201	Marionette	INFO	Marionette enabled
+1688540603207	Marionette	INFO	Listening on port 37665
+Read port: 37665
+WebDriver BiDi listening on ws://127.0.0.1:34463
+1688540603348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34463/devtools/browser/cad3d9d3-e117-4cfe-a42d-e67f829ea6a3
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1688540668292	geckodriver	INFO	Listening on 127.0.0.1:45499
+1688540668723	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "45493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXkEhqZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1688540669046	Marionette	INFO	Marionette enabled
+1688540669051	Marionette	INFO	Listening on port 39715
+Read port: 39715
+WebDriver BiDi listening on ws://127.0.0.1:45493
+1688540669196	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45493/devtools/browser/afede708-99a8-49c1-a314-8a24e2d74c61
+1688540672565	geckodriver	INFO	Listening on 127.0.0.1:52445
+1688540672995	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "52839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevldrEY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1688540673318	Marionette	INFO	Marionette enabled
+1688540673323	Marionette	INFO	Listening on port 39957
+Read port: 39957
+WebDriver BiDi listening on ws://127.0.0.1:52839
+1688540673477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52839/devtools/browser/a9e1e09d-4b8f-46ff-931c-3f08c1defda2
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689750714009	geckodriver	INFO	Listening on 127.0.0.1:37419
+1689750714444	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39577" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWrUDLa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689750714748	Marionette	INFO	Marionette enabled
+1689750714753	Marionette	INFO	Listening on port 45769
+WebDriver BiDi listening on ws://127.0.0.1:39577
+Read port: 45769
+1689750715023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39577/devtools/browser/d9b46994-d287-417e-a927-b14005c61b6d
+1689750720231	geckodriver	INFO	Listening on 127.0.0.1:37339
+1689750720667	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqXmVHK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689750720980	Marionette	INFO	Marionette enabled
+1689750720985	Marionette	INFO	Listening on port 46833
+Read port: 46833
+WebDriver BiDi listening on ws://127.0.0.1:57251
+1689750721140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57251/devtools/browser/9abbc1e6-872b-4752-97b1-9e56e78d5325
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689752237276	geckodriver	INFO	Listening on 127.0.0.1:53535
+1689752237704	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "46933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1SAvTZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689752238015	Marionette	INFO	Marionette enabled
+1689752238021	Marionette	INFO	Listening on port 35689
+Read port: 35689
+WebDriver BiDi listening on ws://127.0.0.1:46933
+1689752238242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46933/devtools/browser/df130e5a-3d96-47f2-ac0d-46121fe6e5ff
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689755144230	geckodriver	INFO	Listening on 127.0.0.1:34571
+1689755144660	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "49175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepv0Cz2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689755144983	Marionette	INFO	Marionette enabled
+1689755144988	Marionette	INFO	Listening on port 36587
+Read port: 36587
+WebDriver BiDi listening on ws://127.0.0.1:49175
+1689755145137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49175/devtools/browser/c1b0a128-5ed4-40f7-bc3d-3ed99d92616d
+1689755149460	geckodriver	INFO	Listening on 127.0.0.1:33515
+1689755149927	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "40589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLsHS7X"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689755150383	Marionette	INFO	Marionette enabled
+1689755150390	Marionette	INFO	Listening on port 44149
+Read port: 44149
+WebDriver BiDi listening on ws://127.0.0.1:40589
+1689755150589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40589/devtools/browser/f3e94e4a-efd0-499f-a1ec-7790d21e15bf
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689755423801	geckodriver	INFO	Listening on 127.0.0.1:52549
+1689755424170	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7bCzOm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689755424525	Marionette	INFO	Marionette enabled
+1689755424532	Marionette	INFO	Listening on port 40033
+Read port: 40033
+WebDriver BiDi listening on ws://127.0.0.1:37285
+1689755424674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37285/devtools/browser/1200b94c-a41a-49b2-bde9-6e6409e81cce
+1689755436493	geckodriver	INFO	Listening on 127.0.0.1:40965
+1689755436919	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekFWjxd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689755437250	Marionette	INFO	Marionette enabled
+1689755437255	Marionette	INFO	Listening on port 33805
+Read port: 33805
+WebDriver BiDi listening on ws://127.0.0.1:60093
+1689755437423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60093/devtools/browser/dc653973-240a-4415-8dd5-cd0fddcb5bc3
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689755481025	geckodriver	INFO	Listening on 127.0.0.1:52815
+1689755481431	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefvS6rm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689755481769	Marionette	INFO	Marionette enabled
+1689755481774	Marionette	INFO	Listening on port 40649
+Read port: 40649
+WebDriver BiDi listening on ws://127.0.0.1:34653
+1689755481923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34653/devtools/browser/deb05786-1a20-4668-b711-3a42abd0a524
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689755514096	geckodriver	INFO	Listening on 127.0.0.1:34617
+1689755514514	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "38831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemo1NBX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689755514917	Marionette	INFO	Marionette enabled
+1689755514922	Marionette	INFO	Listening on port 44581
+Read port: 44581
+WebDriver BiDi listening on ws://127.0.0.1:38831
+1689755515101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38831/devtools/browser/26f01da2-9433-4bb9-8fe6-3b567a3c7379
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689756300187	geckodriver	INFO	Listening on 127.0.0.1:36017
+1689756300612	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoKvqAq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689756300939	Marionette	INFO	Marionette enabled
+1689756300945	Marionette	INFO	Listening on port 44697
+Read port: 44697
+WebDriver BiDi listening on ws://127.0.0.1:50935
+1689756301088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50935/devtools/browser/0a7d6535-6c2b-4281-830e-482d6c71545f
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689756349550	geckodriver	INFO	Listening on 127.0.0.1:50735
+1689756349915	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTooLAl"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689756350238	Marionette	INFO	Marionette enabled
+1689756350244	Marionette	INFO	Listening on port 42041
+Read port: 42041
+WebDriver BiDi listening on ws://127.0.0.1:37075
+1689756350393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37075/devtools/browser/ac21906a-fdea-475b-a7ed-d2d4a469a414
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689756681806	geckodriver	INFO	Listening on 127.0.0.1:58457
+1689756682162	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileb3zCGD"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689756682492	Marionette	INFO	Marionette enabled
+1689756682497	Marionette	INFO	Listening on port 44923
+Read port: 44923
+WebDriver BiDi listening on ws://127.0.0.1:39019
+1689756682642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39019/devtools/browser/15832b49-ce5c-4a63-a176-38c87b3dd9e2
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689757215726	geckodriver	INFO	Listening on 127.0.0.1:53317
+1689757216067	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "56645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZM1rsA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689757216390	Marionette	INFO	Marionette enabled
+1689757216395	Marionette	INFO	Listening on port 37427
+Read port: 37427
+WebDriver BiDi listening on ws://127.0.0.1:56645
+1689757216552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56645/devtools/browser/5f4d2b9f-b22f-4344-921a-253274f66b46
+1689757220007	geckodriver	INFO	Listening on 127.0.0.1:38883
+1689757220434	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "38329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCF1cDT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689757220772	Marionette	INFO	Marionette enabled
+1689757220777	Marionette	INFO	Listening on port 32851
+Read port: 32851
+WebDriver BiDi listening on ws://127.0.0.1:38329
+1689757220925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38329/devtools/browser/81e1ce74-1d02-48a9-9cd6-e58de12e78e7
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689758228043	geckodriver	INFO	Listening on 127.0.0.1:54107
+1689758228625	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenEYMGM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758229048	Marionette	INFO	Marionette enabled
+1689758229056	Marionette	INFO	Listening on port 46533
+Read port: 46533
+WebDriver BiDi listening on ws://127.0.0.1:34873
+1689758229229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34873/devtools/browser/8402405a-97de-4f08-8eae-a618d08fd03c
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689758235634	geckodriver	INFO	Listening on 127.0.0.1:60117
+1689758235788	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "33017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAwZnS6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758236133	Marionette	INFO	Marionette enabled
+1689758236139	Marionette	INFO	Listening on port 43709
+Read port: 43709
+WebDriver BiDi listening on ws://127.0.0.1:33017
+1689758236286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33017/devtools/browser/b4e363ff-13bd-4749-a9ea-47355813d495
+1689758239741	geckodriver	INFO	Listening on 127.0.0.1:35141
+1689758240171	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRlGT1M"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758240496	Marionette	INFO	Marionette enabled
+1689758240501	Marionette	INFO	Listening on port 33037
+Read port: 33037
+WebDriver BiDi listening on ws://127.0.0.1:34259
+1689758240641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34259/devtools/browser/abc7d2c5-cb8e-46b4-a0c8-7af8af749bdd
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689758512454	geckodriver	INFO	Listening on 127.0.0.1:34365
+1689758512812	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRAAn1C"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758513208	Marionette	INFO	Marionette enabled
+1689758513216	Marionette	INFO	Listening on port 38703
+Read port: 38703
+WebDriver BiDi listening on ws://127.0.0.1:37881
+1689758513394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37881/devtools/browser/a681da13-05a6-48a2-86cd-b5cae84c6f1b
+1689758516832	geckodriver	INFO	Listening on 127.0.0.1:41589
+1689758517242	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "58357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileumJGh7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758517557	Marionette	INFO	Marionette enabled
+1689758517562	Marionette	INFO	Listening on port 36611
+Read port: 36611
+WebDriver BiDi listening on ws://127.0.0.1:58357
+1689758517727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58357/devtools/browser/ceb2d6c3-0dcf-40dd-b15a-b064b7b96571
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689758562466	geckodriver	INFO	Listening on 127.0.0.1:49641
+1689758562724	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "53709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei0iFYe"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758563043	Marionette	INFO	Marionette enabled
+1689758563049	Marionette	INFO	Listening on port 35107
+Read port: 35107
+WebDriver BiDi listening on ws://127.0.0.1:53709
+1689758563205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53709/devtools/browser/a35b6c7a-def4-4d58-98d5-75d6fb5c7b5b
+1689758566684	geckodriver	INFO	Listening on 127.0.0.1:34609
+1689758567122	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "42601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekbbZw8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689758568475	geckodriver	INFO	Listening on 127.0.0.1:41497
+1689758568899	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "58033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDQsCi1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758569228	Marionette	INFO	Marionette enabled
+1689758569234	Marionette	INFO	Listening on port 46583
+Read port: 46583
+WebDriver BiDi listening on ws://127.0.0.1:58033
+1689758569380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58033/devtools/browser/452579be-589f-4650-8ec7-a8ffc23de8b5
+1689758572847	geckodriver	INFO	Listening on 127.0.0.1:48909
+1689758573272	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "40613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegbLmyz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758573579	Marionette	INFO	Marionette enabled
+1689758573585	Marionette	INFO	Listening on port 35189
+WebDriver BiDi listening on ws://127.0.0.1:40613
+Read port: 35189
+1689758573750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40613/devtools/browser/841d8a88-7a8c-43d7-a721-cc9ec64347e6
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689758653633	geckodriver	INFO	Listening on 127.0.0.1:44457
+1689758653980	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "58673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5qx3yx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758654384	Marionette	INFO	Marionette enabled
+1689758654392	Marionette	INFO	Listening on port 40409
+Read port: 40409
+WebDriver BiDi listening on ws://127.0.0.1:58673
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689758655701	geckodriver	INFO	Listening on 127.0.0.1:37015
+1689758656125	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBKzKal"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758656459	Marionette	INFO	Marionette enabled
+1689758656465	Marionette	INFO	Listening on port 37193
+Read port: 37193
+WebDriver BiDi listening on ws://127.0.0.1:60719
+1689758656614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60719/devtools/browser/e96cfe7c-1987-4b78-b7ea-ea624079418f
+1689758660296	geckodriver	INFO	Listening on 127.0.0.1:43865
+1689758660710	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "42503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4sFTwU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689758661061	Marionette	INFO	Marionette enabled
+1689758661067	Marionette	INFO	Listening on port 34297
+Read port: 34297
+WebDriver BiDi listening on ws://127.0.0.1:42503
+1689758661217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42503/devtools/browser/75ee0b35-ee0b-4af4-ad32-287315b2157e
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689759241086	geckodriver	INFO	Listening on 127.0.0.1:38511
+1689759241785	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehykcHV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689759242186	Marionette	INFO	Marionette enabled
+1689759242192	Marionette	INFO	Listening on port 42635
+Read port: 42635
+WebDriver BiDi listening on ws://127.0.0.1:48869
+1689759242378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48869/devtools/browser/4eed94ff-4e71-42b0-b06b-c7da4c617db5
+1689759247797	geckodriver	INFO	Listening on 127.0.0.1:58827
+1689759248043	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyhKdCK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689759248456	Marionette	INFO	Marionette enabled
+1689759248462	Marionette	INFO	Listening on port 41231
+Read port: 41231
+WebDriver BiDi listening on ws://127.0.0.1:60167
+1689759248634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60167/devtools/browser/66e90a54-1822-4364-aeec-84b94dbef4fb
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689759748779	geckodriver	INFO	Listening on 127.0.0.1:37205
+1689759749464	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "53471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemkYG6E"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689759750154	Marionette	INFO	Marionette enabled
+1689759750164	Marionette	INFO	Listening on port 46587
+Read port: 46587
+WebDriver BiDi listening on ws://127.0.0.1:53471
+1689759750478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53471/devtools/browser/801d3634-97af-4f35-965e-154b3cefcc35
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689759758040	geckodriver	INFO	Listening on 127.0.0.1:35087
+1689759758765	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec9EOvV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689759759264	Marionette	INFO	Marionette enabled
+1689759759269	Marionette	INFO	Listening on port 39701
+Read port: 39701
+WebDriver BiDi listening on ws://127.0.0.1:34551
+1689759759454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34551/devtools/browser/ab08e436-2858-444e-9969-32d76df9d401
+1689759764650	geckodriver	INFO	Listening on 127.0.0.1:35303
+1689759765039	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "46517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEnnKw6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689759765366	Marionette	INFO	Marionette enabled
+1689759765370	Marionette	INFO	Listening on port 35611
+Read port: 35611
+WebDriver BiDi listening on ws://127.0.0.1:46517
+1689759765516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46517/devtools/browser/0d4772cf-d803-4994-85d5-80e659075d49
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689764142052	geckodriver	INFO	Listening on 127.0.0.1:48633
+1689764143164	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletRhvnE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689764147474	geckodriver	INFO	Listening on 127.0.0.1:42913
+1689764147980	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "52225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHNF8r1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689764148341	Marionette	INFO	Marionette enabled
+1689764148350	Marionette	INFO	Listening on port 39009
+Read port: 39009
+WebDriver BiDi listening on ws://127.0.0.1:52225
+1689764148646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52225/devtools/browser/d18fb39c-9255-420e-8672-5ef67ea83ba8
+1689764155307	geckodriver	INFO	Listening on 127.0.0.1:51111
+1689764155383	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR9Qa8W"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689764155852	Marionette	INFO	Marionette enabled
+1689764155857	Marionette	INFO	Listening on port 46847
+Read port: 46847
+WebDriver BiDi listening on ws://127.0.0.1:57389
+1689764156032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57389/devtools/browser/fdb2f7d7-e282-4442-b998-bc577e273450
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689764382969	geckodriver	INFO	Listening on 127.0.0.1:54099
+1689764383965	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "32945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletyPcLf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689764385042	Marionette	INFO	Marionette enabled
+1689764385049	Marionette	INFO	Listening on port 44829
+Read port: 44829
+WebDriver BiDi listening on ws://127.0.0.1:32945
+1689764385343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:32945/devtools/browser/bd825955-14a4-4b6b-b1ca-e78d7b603fcb
+1689764395950	geckodriver	INFO	Listening on 127.0.0.1:39897
+1689764397065	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "53831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9vRPG8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689764398121	Marionette	INFO	Marionette enabled
+1689764398132	Marionette	INFO	Listening on port 38613
+Read port: 38613
+WebDriver BiDi listening on ws://127.0.0.1:53831
+1689764398588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689769111587	geckodriver	INFO	Listening on 127.0.0.1:36923
+1689769112012	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "51071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaQJaUY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689769112347	Marionette	INFO	Marionette enabled
+1689769112354	Marionette	INFO	Listening on port 45343
+Read port: 45343
+WebDriver BiDi listening on ws://127.0.0.1:51071
+1689769112502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51071/devtools/browser/3b259352-8927-4990-b290-d72cc4d82ff6
+1689769118605	geckodriver	INFO	Listening on 127.0.0.1:48985
+1689769119024	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "52377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXrEgie"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689769119354	Marionette	INFO	Marionette enabled
+1689769119359	Marionette	INFO	Listening on port 37613
+Read port: 37613
+WebDriver BiDi listening on ws://127.0.0.1:52377
+1689769119504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52377/devtools/browser/9f4859d9-6fec-4dfe-bba4-80b33a610ff6
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689771178351	geckodriver	INFO	Listening on 127.0.0.1:34153
+1689771178783	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRZgsSQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771179112	Marionette	INFO	Marionette enabled
+1689771179117	Marionette	INFO	Listening on port 39269
+Read port: 39269
+WebDriver BiDi listening on ws://127.0.0.1:37667
+1689771179276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37667/devtools/browser/72a0856a-828c-4c54-88d7-c69fb604ab72
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689771261241	geckodriver	INFO	Listening on 127.0.0.1:53155
+1689771261667	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "40855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile07I7tW"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771262023	Marionette	INFO	Marionette enabled
+1689771262028	Marionette	INFO	Listening on port 40737
+Read port: 40737
+WebDriver BiDi listening on ws://127.0.0.1:40855
+1689771262174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40855/devtools/browser/b9d703eb-e5a8-4ce2-b324-690cf6763bef
+1689771280134	geckodriver	INFO	Listening on 127.0.0.1:38583
+1689771280554	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4fW0Wh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771280916	Marionette	INFO	Marionette enabled
+1689771280921	Marionette	INFO	Listening on port 39367
+Read port: 39367
+WebDriver BiDi listening on ws://127.0.0.1:36705
+1689771281113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36705/devtools/browser/dfba2e2c-878f-49b4-8006-f0c924263b09
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689771303669	geckodriver	INFO	Listening on 127.0.0.1:50509
+1689771303990	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUKs0mr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771304317	Marionette	INFO	Marionette enabled
+1689771304321	Marionette	INFO	Listening on port 43631
+Read port: 43631
+WebDriver BiDi listening on ws://127.0.0.1:36153
+1689771304488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36153/devtools/browser/bc313d35-1f19-45a4-a164-d474937a454b
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689771480164	geckodriver	INFO	Listening on 127.0.0.1:55995
+1689771480319	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "40595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePjmkt4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771480660	Marionette	INFO	Marionette enabled
+1689771480666	Marionette	INFO	Listening on port 46199
+Read port: 46199
+WebDriver BiDi listening on ws://127.0.0.1:40595
+1689771480821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40595/devtools/browser/a60c5c17-b9dd-4ff4-9c43-e4d5cd6d6ec9
+1689771485472	geckodriver	INFO	Listening on 127.0.0.1:51095
+1689771485893	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyDOaQn"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771486255	Marionette	INFO	Marionette enabled
+1689771486260	Marionette	INFO	Listening on port 42685
+Read port: 42685
+WebDriver BiDi listening on ws://127.0.0.1:39521
+1689771486415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39521/devtools/browser/1a6d6ea5-d778-4538-a58a-f70053e6a584
+1689771492217	geckodriver	INFO	Listening on 127.0.0.1:52159
+1689771492415	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO5oKfJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771492860	Marionette	INFO	Marionette enabled
+1689771492864	Marionette	INFO	Listening on port 42335
+Read port: 42335
+WebDriver BiDi listening on ws://127.0.0.1:50455
+1689771493031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50455/devtools/browser/a3a7306f-70ad-420b-af60-855f7f0df4fc
+1689771497334	geckodriver	INFO	Listening on 127.0.0.1:44693
+1689771497742	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "42405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE3UHST"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771498108	Marionette	INFO	Marionette enabled
+1689771498114	Marionette	INFO	Listening on port 45293
+Read port: 45293
+WebDriver BiDi listening on ws://127.0.0.1:42405
+1689771498274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42405/devtools/browser/c9383e57-a775-4926-ac3f-6026bc01af87
+1689771502650	geckodriver	INFO	Listening on 127.0.0.1:51793
+1689771503054	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "44907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDibCmI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771503393	Marionette	INFO	Marionette enabled
+1689771503401	Marionette	INFO	Listening on port 35109
+Read port: 35109
+WebDriver BiDi listening on ws://127.0.0.1:44907
+1689771503562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44907/devtools/browser/b606c042-526f-43d3-9e5e-6de66016f826
+1689771507790	geckodriver	INFO	Listening on 127.0.0.1:43207
+1689771508191	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "55751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQGLGe4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771508550	Marionette	INFO	Marionette enabled
+1689771508556	Marionette	INFO	Listening on port 34221
+Read port: 34221
+WebDriver BiDi listening on ws://127.0.0.1:55751
+1689771508739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:55751/devtools/browser/ddc8b83b-6de7-4477-bb76-6599b3da2fb2
+1689771514152	geckodriver	INFO	Listening on 127.0.0.1:40941
+1689771514392	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "58199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqMZ8tY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771514867	Marionette	INFO	Marionette enabled
+1689771514874	Marionette	INFO	Listening on port 34333
+Read port: 34333
+WebDriver BiDi listening on ws://127.0.0.1:58199
+1689771515130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58199/devtools/browser/0abae838-da31-472a-ba97-d37b84e0c9ec
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689771529421	geckodriver	INFO	Listening on 127.0.0.1:37467
+1689771529947	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "53269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefk4lSX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771531726	Marionette	INFO	Marionette enabled
+1689771531747	Marionette	INFO	Listening on port 46701
+Read port: 46701
+WebDriver BiDi listening on ws://127.0.0.1:53269
+1689771532443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:53269/devtools/browser/491d5a81-a538-4a6f-ab8b-34651cb3ff3d
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689771558677	geckodriver	INFO	Listening on 127.0.0.1:55291
+1689771559446	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "52517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegZM1Sv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771560310	Marionette	INFO	Marionette enabled
+1689771560328	Marionette	INFO	Listening on port 39919
+Read port: 39919
+WebDriver BiDi listening on ws://127.0.0.1:52517
+1689771560751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52517/devtools/browser/8f11546d-8b0b-4953-8f5a-bfaeee570a8d
+1689771571742	geckodriver	INFO	Listening on 127.0.0.1:43177
+1689771571956	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "38619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLGSLs7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771572773	Marionette	INFO	Marionette enabled
+1689771572780	Marionette	INFO	Listening on port 34015
+Read port: 34015
+WebDriver BiDi listening on ws://127.0.0.1:38619
+1689771573043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38619/devtools/browser/e25193b6-b949-46da-8191-6bf4bba3bb3a
+1689771584666	geckodriver	INFO	Listening on 127.0.0.1:40365
+1689771585326	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuXt5FV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771585818	Marionette	INFO	Marionette enabled
+1689771585823	Marionette	INFO	Listening on port 44105
+Read port: 44105
+WebDriver BiDi listening on ws://127.0.0.1:35491
+1689771586076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35491/devtools/browser/997bef98-c3a2-4cc2-b006-2349a7e2da9b
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689771595514	geckodriver	INFO	Listening on 127.0.0.1:53497
+1689771596140	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "52259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1TjGTQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771596771	Marionette	INFO	Marionette enabled
+1689771596779	Marionette	INFO	Listening on port 33563
+Read port: 33563
+WebDriver BiDi listening on ws://127.0.0.1:52259
+1689771597074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52259/devtools/browser/01779711-0425-4fb7-9621-1f4c0dba054b
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689771610302	geckodriver	INFO	Listening on 127.0.0.1:48095
+1689771610777	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "44415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0qUu6d"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771612347	Marionette	INFO	Marionette enabled
+1689771612359	Marionette	INFO	Listening on port 32975
+Read port: 32975
+WebDriver BiDi listening on ws://127.0.0.1:44415
+1689771612907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+DevTools listening on ws://127.0.0.1:44415/devtools/browser/0ffa856d-3f03-481f-a88d-b34966a7f4ae
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689771655298	geckodriver	INFO	Listening on 127.0.0.1:58663
+1689771656600	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJkJumH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771661413	Marionette	INFO	Marionette enabled
+1689771661445	Marionette	INFO	Listening on port 45899
+Read port: 45899
+Read port: 45899
+WebDriver BiDi listening on ws://127.0.0.1:39763
+Read port: 45899
+Read port: 45899
+Read port: 45899
+Read port: 45899
+Read port: 45899
+Read port: 45899
+Read port: 45899
+Read port: 45899
+1689771673539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39763/devtools/browser/44492c58-f5d1-4a64-a47e-f8faf462acc4
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689771731882	geckodriver	INFO	Listening on 127.0.0.1:54831
+1689771736612	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "55103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAPfFFR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771750109	Marionette	INFO	Marionette enabled
+1689771750232	Marionette	INFO	Listening on port 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+WebDriver BiDi listening on ws://127.0.0.1:55103
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+Read port: 46177
+1689771891262	geckodriver	INFO	Listening on 127.0.0.1:58627
+1689771891951	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "55887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI8UJKO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771892820	Marionette	INFO	Marionette enabled
+1689771892829	Marionette	INFO	Listening on port 33869
+Read port: 33869
+WebDriver BiDi listening on ws://127.0.0.1:55887
+1689771893155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55887/devtools/browser/e5801a88-f681-4e61-8da7-c9634bfa8e30
+1689771902224	geckodriver	INFO	Listening on 127.0.0.1:59041
+1689771902497	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZfIlhQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689771902890	Marionette	INFO	Marionette enabled
+1689771902895	Marionette	INFO	Listening on port 38485
+Read port: 38485
+WebDriver BiDi listening on ws://127.0.0.1:39217
+1689771903065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39217/devtools/browser/e0cc985f-9660-402c-94fd-804e009840b2
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689772088323	geckodriver	INFO	Listening on 127.0.0.1:34677
+1689772089285	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "58379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4JVmVZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689772090950	Marionette	INFO	Marionette enabled
+1689772090971	Marionette	INFO	Listening on port 42413
+Read port: 42413
+WebDriver BiDi listening on ws://127.0.0.1:58379
+1689772091679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 414))
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1689773653164	geckodriver	INFO	Listening on 127.0.0.1:39167
+1689773653585	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerVv6Ap"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689773653929	Marionette	INFO	Marionette enabled
+1689773653934	Marionette	INFO	Listening on port 35135
+Read port: 35135
+WebDriver BiDi listening on ws://127.0.0.1:60553
+1689773654123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60553/devtools/browser/872d3fa6-e6e1-4af4-b067-012e128fa2f7
+1689773659874	geckodriver	INFO	Listening on 127.0.0.1:36483
+1689773660299	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevaQSqg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689773660613	Marionette	INFO	Marionette enabled
+1689773660619	Marionette	INFO	Listening on port 37097
+Read port: 37097
+WebDriver BiDi listening on ws://127.0.0.1:48875
+1689773660784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48875/devtools/browser/6aeca962-0e25-4c68-9f2d-05ade62057e4
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689773798509	geckodriver	INFO	Listening on 127.0.0.1:45063
+1689773798931	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepY3Rkh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689773799560	Marionette	INFO	Marionette enabled
+1689773799566	Marionette	INFO	Listening on port 42953
+Read port: 42953
+WebDriver BiDi listening on ws://127.0.0.1:57307
+1689773799785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57307/devtools/browser/162ae28d-f952-47f9-aa5a-30553d8ac9f1
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689838434556	geckodriver	INFO	Listening on 127.0.0.1:47775
+1689838435068	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "43009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej3nuAi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689838435394	Marionette	INFO	Marionette enabled
+1689838435399	Marionette	INFO	Listening on port 34579
+Read port: 34579
+WebDriver BiDi listening on ws://127.0.0.1:43009
+1689838435532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43009/devtools/browser/dc65317a-29fc-4149-bced-9f8ae0806b92
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689838505107	geckodriver	INFO	Listening on 127.0.0.1:51827
+1689838505515	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegPhrYb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689838505825	Marionette	INFO	Marionette enabled
+1689838505830	Marionette	INFO	Listening on port 38023
+Read port: 38023
+WebDriver BiDi listening on ws://127.0.0.1:50841
+1689838505992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50841/devtools/browser/ec12000e-4b06-4890-b10f-079a343d663d
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689838742285	geckodriver	INFO	Listening on 127.0.0.1:49643
+1689838742702	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "33887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR46WQi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689838743014	Marionette	INFO	Marionette enabled
+1689838743019	Marionette	INFO	Listening on port 41655
+Read port: 41655
+WebDriver BiDi listening on ws://127.0.0.1:33887
+1689838743213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33887/devtools/browser/aa606165-3ab4-4a2f-a33c-af6d383ff101
+1689838746516	geckodriver	INFO	Listening on 127.0.0.1:44189
+1689838746947	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "45085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLjNqxP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689838747270	Marionette	INFO	Marionette enabled
+1689838747276	Marionette	INFO	Listening on port 39195
+Read port: 39195
+WebDriver BiDi listening on ws://127.0.0.1:45085
+1689838747418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45085/devtools/browser/06b0a2c3-202c-4e48-b29e-1d55860871b2
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689839152896	geckodriver	INFO	Listening on 127.0.0.1:39937
+1689839153200	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "38967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWalcKf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689839153525	Marionette	INFO	Marionette enabled
+1689839153531	Marionette	INFO	Listening on port 41067
+Read port: 41067
+WebDriver BiDi listening on ws://127.0.0.1:38967
+1689839153685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38967/devtools/browser/710e5f56-052e-41d8-a814-23f54a221cad
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689839174675	geckodriver	INFO	Listening on 127.0.0.1:41547
+1689839175065	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "51325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFvUr6D"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689839175388	Marionette	INFO	Marionette enabled
+1689839175393	Marionette	INFO	Listening on port 36853
+Read port: 36853
+WebDriver BiDi listening on ws://127.0.0.1:51325
+1689839175535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51325/devtools/browser/c8b3243e-a4bd-4d6a-9c59-cf35cab6af5a
+1689839178866	geckodriver	INFO	Listening on 127.0.0.1:44807
+1689839179296	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "33339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesiHlnx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689839179617	Marionette	INFO	Marionette enabled
+1689839179623	Marionette	INFO	Listening on port 41863
+Read port: 41863
+WebDriver BiDi listening on ws://127.0.0.1:33339
+1689839179767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33339/devtools/browser/8bc3a990-d11d-4e76-8815-228bef51a016
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689839656312	geckodriver	INFO	Listening on 127.0.0.1:55853
+1689839656709	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "53333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileshEQA6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689839657037	Marionette	INFO	Marionette enabled
+1689839657042	Marionette	INFO	Listening on port 35409
+Read port: 35409
+WebDriver BiDi listening on ws://127.0.0.1:53333
+1689839657185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53333/devtools/browser/75fcc8ae-2cfd-4aec-823b-fbef0180de91
+1689839660593	geckodriver	INFO	Listening on 127.0.0.1:42913
+1689839661000	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "47497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQ6zVef"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689839661325	Marionette	INFO	Marionette enabled
+1689839661330	Marionette	INFO	Listening on port 45465
+Read port: 45465
+WebDriver BiDi listening on ws://127.0.0.1:47497
+1689839661490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47497/devtools/browser/f7bc6dc6-e33d-455d-ac2a-fffc3e02a7e1
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689839940286	geckodriver	INFO	Listening on 127.0.0.1:45497
+1689839940659	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileScpUlQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689839941000	Marionette	INFO	Marionette enabled
+1689839941005	Marionette	INFO	Listening on port 42257
+Read port: 42257
+WebDriver BiDi listening on ws://127.0.0.1:50495
+1689839941150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50495/devtools/browser/5194f999-70e0-4d09-82f6-de24caac621a
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689839946072	geckodriver	INFO	Listening on 127.0.0.1:40391
+1689839946498	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "54257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9eiQzs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689839946829	Marionette	INFO	Marionette enabled
+1689839946834	Marionette	INFO	Listening on port 42705
+Read port: 42705
+WebDriver BiDi listening on ws://127.0.0.1:54257
+1689839946981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54257/devtools/browser/c0ceb44b-a458-4b17-8a31-25a929050b25
+1689839950413	geckodriver	INFO	Listening on 127.0.0.1:38423
+1689839950839	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "46119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZSmqjN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689839951167	Marionette	INFO	Marionette enabled
+1689839951172	Marionette	INFO	Listening on port 33049
+Read port: 33049
+WebDriver BiDi listening on ws://127.0.0.1:46119
+1689839951321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46119/devtools/browser/50f83972-53bd-4415-bf8d-ad0eaf36f645
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689840598763	geckodriver	INFO	Listening on 127.0.0.1:39747
+1689840599193	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "45529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegSmOF2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689840599507	Marionette	INFO	Marionette enabled
+1689840599512	Marionette	INFO	Listening on port 41849
+Read port: 41849
+WebDriver BiDi listening on ws://127.0.0.1:45529
+1689840599670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45529/devtools/browser/4fc46924-8c9c-4eed-9edf-c69acce795cf
+1689840603077	geckodriver	INFO	Listening on 127.0.0.1:38075
+1689840603502	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "47801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecyVaWU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689840603831	Marionette	INFO	Marionette enabled
+1689840603836	Marionette	INFO	Listening on port 35725
+Read port: 35725
+WebDriver BiDi listening on ws://127.0.0.1:47801
+1689840603984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47801/devtools/browser/796009a4-dac7-46c7-af23-3379ed197074
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689840681800	geckodriver	INFO	Listening on 127.0.0.1:49715
+1689840682222	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "32783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEMUT1W"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689840682554	Marionette	INFO	Marionette enabled
+1689840682560	Marionette	INFO	Listening on port 44171
+Read port: 44171
+WebDriver BiDi listening on ws://127.0.0.1:32783
+1689840682701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:32783/devtools/browser/493263a3-cfe1-472e-ab06-71e2a840fd17
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689840687905	geckodriver	INFO	Listening on 127.0.0.1:34743
+1689840688321	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36625" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepBoupf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689840688651	Marionette	INFO	Marionette enabled
+1689840688657	Marionette	INFO	Listening on port 42461
+Read port: 42461
+WebDriver BiDi listening on ws://127.0.0.1:36625
+1689840688805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36625/devtools/browser/8740976e-3b3a-4aa5-838e-a13dcfa97ab3
+1689840692093	geckodriver	INFO	Listening on 127.0.0.1:39177
+1689840692519	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile68YQwU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689840692846	Marionette	INFO	Marionette enabled
+1689840692851	Marionette	INFO	Listening on port 39041
+Read port: 39041
+WebDriver BiDi listening on ws://127.0.0.1:39007
+1689840693002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39007/devtools/browser/27088bb3-521b-434e-a5be-327670de35a7
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689850809871	geckodriver	INFO	Listening on 127.0.0.1:40257
+1689850810075	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "53079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTMnnV7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689850810411	Marionette	INFO	Marionette enabled
+1689850810416	Marionette	INFO	Listening on port 44735
+Read port: 44735
+WebDriver BiDi listening on ws://127.0.0.1:53079
+1689850810564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53079/devtools/browser/233c631d-c8fa-4187-8411-91c776116f9a
+1689850814309	geckodriver	INFO	Listening on 127.0.0.1:36143
+1689850814561	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilen59asn"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689850814926	Marionette	INFO	Marionette enabled
+1689850814932	Marionette	INFO	Listening on port 41815
+Read port: 41815
+WebDriver BiDi listening on ws://127.0.0.1:35491
+1689850815114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35491/devtools/browser/d23f9af2-1232-4913-9d15-4afc53aca83a
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689853155976	geckodriver	INFO	Listening on 127.0.0.1:55573
+1689853156843	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "47301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerJamu5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689853157761	Marionette	INFO	Marionette enabled
+1689853157769	Marionette	INFO	Listening on port 39579
+Read port: 39579
+WebDriver BiDi listening on ws://127.0.0.1:47301
+1689853158115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47301/devtools/browser/42ee56a0-8f1e-447e-b874-2e92e9c5d1c0
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689853173842	geckodriver	INFO	Listening on 127.0.0.1:58715
+1689853174407	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "45491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEyHo23"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689853174791	Marionette	INFO	Marionette enabled
+1689853174798	Marionette	INFO	Listening on port 41493
+Read port: 41493
+WebDriver BiDi listening on ws://127.0.0.1:45491
+1689853174938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45491/devtools/browser/a98fece1-1c7a-4973-b75b-987e17bd662a
+1689853178372	geckodriver	INFO	Listening on 127.0.0.1:37323
+1689853178775	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "59855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTx1XQy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689853179090	Marionette	INFO	Marionette enabled
+1689853179095	Marionette	INFO	Listening on port 34657
+Read port: 34657
+WebDriver BiDi listening on ws://127.0.0.1:59855
+1689853179254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59855/devtools/browser/765c0f1e-2b73-43dd-bfcb-eea00ba14878
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689853282032	geckodriver	INFO	Listening on 127.0.0.1:60187
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689853283831	geckodriver	INFO	Listening on 127.0.0.1:33057
+1689853284848	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "47535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUFMxqQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689853285707	Marionette	INFO	Marionette enabled
+1689853285716	Marionette	INFO	Listening on port 33999
+Read port: 33999
+WebDriver BiDi listening on ws://127.0.0.1:47535
+1689853285961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47535/devtools/browser/8298da76-63e9-4968-ab8b-ef2dce0c7eb0
+1689853292625	geckodriver	INFO	Listening on 127.0.0.1:45225
+1689853293170	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "42771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilet9wWVE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689853293587	Marionette	INFO	Marionette enabled
+1689853293592	Marionette	INFO	Listening on port 35207
+Read port: 35207
+WebDriver BiDi listening on ws://127.0.0.1:42771
+1689853293798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42771/devtools/browser/cf48e318-2659-407c-9a22-9327ee63ff51
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/cups/doc-root /usr/share/cups/doc-root none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1689855109014	geckodriver	INFO	Listening on 127.0.0.1:40927
+1689855110475	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "55699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevlcNhF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689855111673	Marionette	INFO	Marionette enabled
+1689855111681	Marionette	INFO	Listening on port 44539
+Read port: 44539
+WebDriver BiDi listening on ws://127.0.0.1:55699
+1689855111925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55699/devtools/browser/8dee58c2-941e-44fb-b489-dff09f13dad3
+1689855117617	geckodriver	INFO	Listening on 127.0.0.1:44191
+1689855118038	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOC4oFO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689855118334	Marionette	INFO	Marionette enabled
+1689855118338	Marionette	INFO	Listening on port 39071
+Read port: 39071
+WebDriver BiDi listening on ws://127.0.0.1:60619
+1689855118462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60619/devtools/browser/292e6d92-929a-44e3-9102-62110d25974c
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689916057040	geckodriver	INFO	Listening on 127.0.0.1:35013
+1689916057454	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVz8O3q"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916057770	Marionette	INFO	Marionette enabled
+1689916057775	Marionette	INFO	Listening on port 43761
+Read port: 43761
+WebDriver BiDi listening on ws://127.0.0.1:60639
+1689916057924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60639/devtools/browser/6c6725df-6ec0-4f5e-a32e-2bc4d32e6dce
+1689916060957	geckodriver	INFO	Listening on 127.0.0.1:52123
+1689916061389	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerYHGJf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916061694	Marionette	INFO	Marionette enabled
+1689916061700	Marionette	INFO	Listening on port 36633
+WebDriver BiDi listening on ws://127.0.0.1:60877
+Read port: 36633
+1689916061964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60877/devtools/browser/df4496fe-4e57-4ab1-8116-a7219b0aab43
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689916222274	geckodriver	INFO	Listening on 127.0.0.1:48421
+1689916222704	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKPz55S"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916223001	Marionette	INFO	Marionette enabled
+1689916223005	Marionette	INFO	Listening on port 43965
+WebDriver BiDi listening on ws://127.0.0.1:35705
+Read port: 43965
+1689916223266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35705/devtools/browser/ac9575d0-58bd-438e-842b-bd7fbe168e65
+1689916226018	geckodriver	INFO	Listening on 127.0.0.1:53711
+1689916226447	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "33503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepMZuQr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916226746	Marionette	INFO	Marionette enabled
+1689916226751	Marionette	INFO	Listening on port 38855
+WebDriver BiDi listening on ws://127.0.0.1:33503
+Read port: 38855
+1689916227011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33503/devtools/browser/9f0d7fa3-b670-4900-8c0c-41b6e6e94d7d
+1689916237199	geckodriver	INFO	Listening on 127.0.0.1:57371
+1689916237622	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehT6EM1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916237918	Marionette	INFO	Marionette enabled
+1689916237924	Marionette	INFO	Listening on port 45673
+WebDriver BiDi listening on ws://127.0.0.1:39849
+Read port: 45673
+1689916238187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689916239360	geckodriver	INFO	Listening on 127.0.0.1:38819
+1689916239792	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "32837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileudUKRS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916240100	Marionette	INFO	Marionette enabled
+1689916240105	Marionette	INFO	Listening on port 39165
+WebDriver BiDi listening on ws://127.0.0.1:32837
+Read port: 39165
+1689916240372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:32837/devtools/browser/6aa147bd-cf06-4620-9619-f77f0dcae415
+1689916243297	geckodriver	INFO	Listening on 127.0.0.1:47681
+1689916243725	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "52193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegZNrPj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916244030	Marionette	INFO	Marionette enabled
+1689916244036	Marionette	INFO	Listening on port 34139
+WebDriver BiDi listening on ws://127.0.0.1:52193
+Read port: 34139
+1689916244298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52193/devtools/browser/fab8e53b-6680-4249-a192-47bfa3d17ea3
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689916738439	geckodriver	INFO	Listening on 127.0.0.1:35505
+1689916738869	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled5FgFq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916739186	Marionette	INFO	Marionette enabled
+1689916739192	Marionette	INFO	Listening on port 41849
+Read port: 41849
+WebDriver BiDi listening on ws://127.0.0.1:35777
+1689916739341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689916741640	geckodriver	INFO	Listening on 127.0.0.1:44655
+1689916742070	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB4LYVZ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916742384	Marionette	INFO	Marionette enabled
+1689916742390	Marionette	INFO	Listening on port 45135
+Read port: 45135
+WebDriver BiDi listening on ws://127.0.0.1:57749
+1689916742544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57749/devtools/browser/0a3ab1b6-2563-4ff0-b1bb-561125e16df2
+1689916745628	geckodriver	INFO	Listening on 127.0.0.1:53431
+1689916746054	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "47885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilel7Fh52"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916746358	Marionette	INFO	Marionette enabled
+1689916746363	Marionette	INFO	Listening on port 46721
+WebDriver BiDi listening on ws://127.0.0.1:47885
+Read port: 46721
+1689916746636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47885/devtools/browser/dc1f5363-7b61-4334-bc97-f48925b36712
+1689916770933	geckodriver	INFO	Listening on 127.0.0.1:50179
+1689916771364	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "55451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezX6x8b"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916771672	Marionette	INFO	Marionette enabled
+1689916771677	Marionette	INFO	Listening on port 44395
+WebDriver BiDi listening on ws://127.0.0.1:55451
+Read port: 44395
+1689916771830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55451/devtools/browser/9f2aa936-9f49-43f3-afdb-57b9e8c671cd
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689916892889	geckodriver	INFO	Listening on 127.0.0.1:44445
+1689916893318	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "59963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebbkpJ5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689916893623	Marionette	INFO	Marionette enabled
+1689916893628	Marionette	INFO	Listening on port 38797
+WebDriver BiDi listening on ws://127.0.0.1:59963
+Read port: 38797
+1689916893779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59963/devtools/browser/fb26dfce-14c5-432e-af56-63ab0d77d833
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689917119265	geckodriver	INFO	Listening on 127.0.0.1:52471
+1689917119697	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNXK8uN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689917120007	Marionette	INFO	Marionette enabled
+1689917120012	Marionette	INFO	Listening on port 39283
+WebDriver BiDi listening on ws://127.0.0.1:48765
+Read port: 39283
+1689917120160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48765/devtools/browser/b97adbcb-a19d-471c-aeef-0f733fdf1817
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689917283681	geckodriver	INFO	Listening on 127.0.0.1:41791
+1689917284108	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecgmGAP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689917284421	Marionette	INFO	Marionette enabled
+1689917284427	Marionette	INFO	Listening on port 37011
+Read port: 37011
+WebDriver BiDi listening on ws://127.0.0.1:37755
+1689917284588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37755/devtools/browser/ba013a63-cd8c-47a1-947c-df2f9571915d
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689917399498	geckodriver	INFO	Listening on 127.0.0.1:49025
+1689917399928	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "54309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXCpQlR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689917400235	Marionette	INFO	Marionette enabled
+1689917400240	Marionette	INFO	Listening on port 43935
+WebDriver BiDi listening on ws://127.0.0.1:54309
+Read port: 43935
+1689917400505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54309/devtools/browser/9acc3e82-a13e-4a6a-b2cb-bd9fd422c6dc
+1689917405776	geckodriver	INFO	Listening on 127.0.0.1:57271
+1689917406205	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIGpHqQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689917406502	Marionette	INFO	Marionette enabled
+1689917406508	Marionette	INFO	Listening on port 45171
+WebDriver BiDi listening on ws://127.0.0.1:57673
+Read port: 45171
+1689917406776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57673/devtools/browser/d49d4b91-2540-413a-b385-27465a0ac1ae
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689917487065	geckodriver	INFO	Listening on 127.0.0.1:33551
+1689917487493	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "40373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiler5sgcB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689917487799	Marionette	INFO	Marionette enabled
+1689917487803	Marionette	INFO	Listening on port 45465
+WebDriver BiDi listening on ws://127.0.0.1:40373
+Read port: 45465
+1689917488073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40373/devtools/browser/3b3ffdca-e73d-4f39-a72a-9d6f856d2b5c
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689918131225	geckodriver	INFO	Listening on 127.0.0.1:54749
+1689918131653	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "47751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei1qaBs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689918131958	Marionette	INFO	Marionette enabled
+1689918131964	Marionette	INFO	Listening on port 37619
+WebDriver BiDi listening on ws://127.0.0.1:47751
+Read port: 37619
+1689918132227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47751/devtools/browser/844e4319-787f-4fd7-84ad-86ebeef34a6f
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689918238715	geckodriver	INFO	Listening on 127.0.0.1:33923
+1689918239144	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1jp6K9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689918239442	Marionette	INFO	Marionette enabled
+1689918239448	Marionette	INFO	Listening on port 35203
+WebDriver BiDi listening on ws://127.0.0.1:35979
+Read port: 35203
+1689918239706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35979/devtools/browser/8f862137-a6cc-4711-80f4-a547c745bd38
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689918307603	geckodriver	INFO	Listening on 127.0.0.1:47849
+1689918308035	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "46969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUGFspJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689918308333	Marionette	INFO	Marionette enabled
+1689918308339	Marionette	INFO	Listening on port 37803
+WebDriver BiDi listening on ws://127.0.0.1:46969
+Read port: 37803
+1689918308603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46969/devtools/browser/2177c3ba-09eb-44e3-961b-65967d9a29ec
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689919538873	geckodriver	INFO	Listening on 127.0.0.1:60547
+1689919539301	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilee9S22i"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689919539605	Marionette	INFO	Marionette enabled
+1689919539611	Marionette	INFO	Listening on port 40735
+WebDriver BiDi listening on ws://127.0.0.1:50851
+Read port: 40735
+1689919539877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50851/devtools/browser/667d1297-e4dd-48cc-adde-81dd71d4144d
+1689919561360	geckodriver	INFO	Listening on 127.0.0.1:35061
+1689919561787	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "55257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVO2uKA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689919562100	Marionette	INFO	Marionette enabled
+1689919562106	Marionette	INFO	Listening on port 38967
+Read port: 38967
+WebDriver BiDi listening on ws://127.0.0.1:55257
+1689919562264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55257/devtools/browser/db50f25e-557e-4541-9a2a-b8e87bf22a12
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689919593119	geckodriver	INFO	Listening on 127.0.0.1:47441
+1689919593547	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "49895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNOOP2x"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689919593858	Marionette	INFO	Marionette enabled
+1689919593864	Marionette	INFO	Listening on port 40691
+Read port: 40691
+WebDriver BiDi listening on ws://127.0.0.1:49895
+1689919594028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49895/devtools/browser/6b546d50-81a5-4155-8be0-3075b117a645
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689919626077	geckodriver	INFO	Listening on 127.0.0.1:53605
+1689919626498	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebMzf4t"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689919626842	Marionette	INFO	Marionette enabled
+1689919626848	Marionette	INFO	Listening on port 46049
+Read port: 46049
+WebDriver BiDi listening on ws://127.0.0.1:39217
+1689919626993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39217/devtools/browser/502c2a71-d374-4c8b-9520-90b77bdde937
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689919670078	geckodriver	INFO	Listening on 127.0.0.1:38799
+1689919670508	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3tHxaI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689919670809	Marionette	INFO	Marionette enabled
+1689919670814	Marionette	INFO	Listening on port 43047
+WebDriver BiDi listening on ws://127.0.0.1:37459
+Read port: 43047
+1689919671077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37459/devtools/browser/8ec39e32-2290-4f0f-a076-7c9003d3cb8a
+1689919683280	geckodriver	INFO	Listening on 127.0.0.1:56019
+1689919683708	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5eEPUk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689919684027	Marionette	INFO	Marionette enabled
+1689919684033	Marionette	INFO	Listening on port 44111
+Read port: 44111
+WebDriver BiDi listening on ws://127.0.0.1:37861
+1689919684181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37861/devtools/browser/df35dd91-2582-4301-aa09-1479f1297158
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689919710641	geckodriver	INFO	Listening on 127.0.0.1:48531
+1689919711061	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "56945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBkU9lv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689919711360	Marionette	INFO	Marionette enabled
+1689919711366	Marionette	INFO	Listening on port 34653
+WebDriver BiDi listening on ws://127.0.0.1:56945
+Read port: 34653
+1689919711624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56945/devtools/browser/6f5c67de-32d9-4b2c-9dc6-1f6547f69261
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689919767466	geckodriver	INFO	Listening on 127.0.0.1:41467
+1689919767896	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBEQSQs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689919768194	Marionette	INFO	Marionette enabled
+1689919768200	Marionette	INFO	Listening on port 36043
+WebDriver BiDi listening on ws://127.0.0.1:50565
+Read port: 36043
+1689919768462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50565/devtools/browser/7053e1fa-12a5-4ba5-a6bf-25a3b8b1082d
+1689919785689	geckodriver	INFO	Listening on 127.0.0.1:48019
+1689919786118	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileo5UCVv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689919786416	Marionette	INFO	Marionette enabled
+1689919786422	Marionette	INFO	Listening on port 36175
+WebDriver BiDi listening on ws://127.0.0.1:39623
+Read port: 36175
+1689919786686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39623/devtools/browser/46f8ae1b-36a3-40a3-8c52-d97328496adb
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689920049338	geckodriver	INFO	Listening on 127.0.0.1:42299
+1689920049768	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "56637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem3Myf4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689920050070	Marionette	INFO	Marionette enabled
+1689920050076	Marionette	INFO	Listening on port 45323
+WebDriver BiDi listening on ws://127.0.0.1:56637
+Read port: 45323
+1689920050338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56637/devtools/browser/013b1737-4bfa-4d53-a695-899f28ed9df3
+1689920069686	geckodriver	INFO	Listening on 127.0.0.1:55125
+1689920070113	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileP1IVsI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689920070418	Marionette	INFO	Marionette enabled
+1689920070423	Marionette	INFO	Listening on port 38865
+WebDriver BiDi listening on ws://127.0.0.1:57319
+Read port: 38865
+1689920070691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57319/devtools/browser/d75b166e-f260-4dd1-93dc-c8a939196dd9
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689920125550	geckodriver	INFO	Listening on 127.0.0.1:39817
+1689920125979	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "56541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileokF0ke"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689920126285	Marionette	INFO	Marionette enabled
+1689920126290	Marionette	INFO	Listening on port 45623
+WebDriver BiDi listening on ws://127.0.0.1:56541
+Read port: 45623
+1689920126550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56541/devtools/browser/e30def86-0f64-471c-a3af-1449b1f8f0fd
+1689920146873	geckodriver	INFO	Listening on 127.0.0.1:39809
+1689920147303	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "58173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1mu777"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689920147604	Marionette	INFO	Marionette enabled
+1689920147608	Marionette	INFO	Listening on port 46843
+WebDriver BiDi listening on ws://127.0.0.1:58173
+Read port: 46843
+1689920147873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58173/devtools/browser/0c086d49-a45a-4af1-a28d-5ef7c11c652d
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689921452584	geckodriver	INFO	Listening on 127.0.0.1:46289
+1689921453014	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "41031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileENLevG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689921453320	Marionette	INFO	Marionette enabled
+1689921453326	Marionette	INFO	Listening on port 42537
+WebDriver BiDi listening on ws://127.0.0.1:41031
+Read port: 42537
+1689921453588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41031/devtools/browser/84f7e956-4a57-4f4e-b6df-e263d5f307c8
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1689921504909	geckodriver	INFO	Listening on 127.0.0.1:51643
+1689921505339	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "46397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuWAW2Z"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689921505638	Marionette	INFO	Marionette enabled
+1689921505644	Marionette	INFO	Listening on port 36445
+WebDriver BiDi listening on ws://127.0.0.1:46397
+Read port: 36445
+1689921505914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46397/devtools/browser/24a70f3c-57cc-482f-b10f-935b8bae13ef
+1689921508658	geckodriver	INFO	Listening on 127.0.0.1:32779
+1689921509089	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegbNLw3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689921509394	Marionette	INFO	Marionette enabled
+1689921509399	Marionette	INFO	Listening on port 33419
+WebDriver BiDi listening on ws://127.0.0.1:35477
+Read port: 33419
+1689921509665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35477/devtools/browser/e19cb8cd-d19e-42d2-94e5-144213bfcfd5
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689921868832	geckodriver	INFO	Listening on 127.0.0.1:51433
+1689921869261	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileagP7M4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689921869563	Marionette	INFO	Marionette enabled
+1689921869568	Marionette	INFO	Listening on port 37541
+WebDriver BiDi listening on ws://127.0.0.1:60085
+Read port: 37541
+1689921869832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60085/devtools/browser/d873098a-c33b-47ad-a5d2-a11cfc8b9663
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689922083949	geckodriver	INFO	Listening on 127.0.0.1:35063
+1689922084376	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem3ldCz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689922084695	Marionette	INFO	Marionette enabled
+1689922084701	Marionette	INFO	Listening on port 45769
+Read port: 45769
+WebDriver BiDi listening on ws://127.0.0.1:60505
+1689922084852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60505/devtools/browser/721759f9-f135-4937-9082-7a67de8c6ef3
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689922141732	geckodriver	INFO	Listening on 127.0.0.1:34845
+1689922142164	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "43503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVqv6Yx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689922142464	Marionette	INFO	Marionette enabled
+1689922142469	Marionette	INFO	Listening on port 41625
+WebDriver BiDi listening on ws://127.0.0.1:43503
+Read port: 41625
+1689922142729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43503/devtools/browser/d320ea5d-d22a-497d-8782-533e86949a19
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689926692945	geckodriver	INFO	Listening on 127.0.0.1:57625
+1689926693365	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAG5zCL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689926693671	Marionette	INFO	Marionette enabled
+1689926693676	Marionette	INFO	Listening on port 36625
+WebDriver BiDi listening on ws://127.0.0.1:57115
+Read port: 36625
+1689926693934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57115/devtools/browser/f19a49fa-7ece-40e0-ac30-3c2cf3bfbb14
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689926791415	geckodriver	INFO	Listening on 127.0.0.1:32953
+1689926791844	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "42315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHKBczF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689926792142	Marionette	INFO	Marionette enabled
+1689926792147	Marionette	INFO	Listening on port 45955
+WebDriver BiDi listening on ws://127.0.0.1:42315
+Read port: 45955
+1689926792415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42315/devtools/browser/0bdd8df5-b9d7-448c-8c88-abc2aa1d28f2
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689934964899	geckodriver	INFO	Listening on 127.0.0.1:56027
+1689934965273	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "44429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileX1iKlX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689934965601	Marionette	INFO	Marionette enabled
+1689934965606	Marionette	INFO	Listening on port 37875
+Read port: 37875
+WebDriver BiDi listening on ws://127.0.0.1:44429
+1689934965743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44429/devtools/browser/196bef37-4d5a-4bb8-a9b4-3d55b959ba4a
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1689935238189	geckodriver	INFO	Listening on 127.0.0.1:44351
+1689935238403	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "42837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU9DAqa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: Unable to open a connection to the X server
+1689935238704	Marionette	INFO	Marionette enabled
+1689935238710	Marionette	INFO	Listening on port 36269
+WebDriver BiDi listening on ws://127.0.0.1:42837
+Read port: 36269
+1689935238975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42837/devtools/browser/809d1384-0fb2-4aa8-a2ef-3768aff5ddac
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Shutting down due to socket process crash.
+1689938007594	Marionette	INFO	Stopped listening on port 35203
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

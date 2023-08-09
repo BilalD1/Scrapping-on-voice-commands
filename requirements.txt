@@ -1,0 +1,5 @@
+scikit-learn
+mysql-connector-python
+Flask
+google-oauth2-tool
+google-cloud-speech
